@@ -61,11 +61,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "nmartorell"
     },
-    "lastModifiedOn": 1652133022642
+    "lastModifiedOn": 1652133040442
   },
   "creationTag": {
     "versionNumber": 0,
@@ -90,8 +90,20 @@
     }
   },
   "schema": {
-    "columns": [],
-    "userModified": true
+    "columns": [
+      {"name":"country","type":"string"},
+      {"name":"year","type":"bigint"},
+      {"name":"corruption_index","type":"double"},
+      {"name":"homicide_rate","type":"double"},
+      {"name":"GDP","type":"double"},
+      {"name":"total_fisheries_per_ton","type":"double"},
+      {"name":"total_military","type":"double"},
+      {"name":"population","type":"double"},
+      {"name":"unemployment_rate","type":"double"},
+      {"name":"totalgr","type":"double"},
+      {"name":"industryofgdp","type":"double"}
+    ],
+    "userModified": false
   },
   "dkuProperties": [],
   "metrics": {

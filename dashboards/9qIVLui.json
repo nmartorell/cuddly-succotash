@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "vgkLUKr",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "nmartorell",
+  "listed": true,
+  "name": "Data Stuff (master)\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nmartorell"
+    },
+    "lastModifiedOn": 1652132831688
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nmartorell"
+    },
+    "lastModifiedOn": 1652132831688
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

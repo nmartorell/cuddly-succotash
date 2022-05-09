@@ -127,7 +127,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Data Stuff (development)",
+  "name": "Data Stuff (master)",
+  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -183,11 +184,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "nmartorell"
     },
-    "lastModifiedOn": 1652132938031
+    "lastModifiedOn": 1652133165434
   },
   "creationTag": {
     "versionNumber": 0,
@@ -196,10 +197,8 @@
     },
     "lastModifiedOn": 1652132831686
   },
-  "shortDesc": "The project *Data Stuff (master)* was created by Ned Martorell on May 09th 2022\nThe project *DATA_STUFF_DEVELOPMENT* was copied from *DATASTUFFMASTER* by Ned Martorell on May 09th 2022",
-  "tags": [
-    "duplicated"
-  ],
+  "shortDesc": "The project *Data Stuff (master)* was created by Ned Martorell on May 09th 2022",
+  "tags": [],
   "customFields": {},
   "checklists": {
     "checklists": [
